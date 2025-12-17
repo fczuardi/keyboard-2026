@@ -16,21 +16,14 @@ QWERTY
 
 ## Actions
 
-- **Space**: right thumb (tap)
-  - same key on **layer 1**, but can be hold
-
-- **Backspace**: left thumb (tap)
-  - same key on **layer 2**, but can be hold
-
-- **Enter**: right pinky, home row, last column
-
-- **Esc**: left pink, home row, first column
-
-- **Shift**: hold left thumb or hold right thumb (on **layer 0**)
-
-  - G key position or right-center-thumb on **layer 1**
-
-  - H key position or left-center-thumb on **layer 2**
+- **Space**: right thumb 1
+  - **Right Shift**: hold right thumb 1
+- **Backspace**: left thumb 1
+  - **Left Shift**: hold left thumb 1
+- **Enter**: left thumb 2 (switch to layer 1), followed by right thumb 1
+  - or right pinky, home row, last column (if 3x6 corne)
+- **Esc**: right thumb 2 (switch to layer 2), followed by left thumb 1
+  - or left pink, home row, first column (if 3x6 corne)
 
 - **Tab**: left pinky on **layer 2**
 
@@ -60,15 +53,15 @@ QWERTY
 
 ​                    
 
-## Thumb Cluster center keys
+## Layer Switching
 
-Center thumb-cluster key on each side are layer modifier keys, left side changes to layer 1 while holding, right side changes to layer 2 while holding.
+Center key on the thumb-clusters, also referred here as thumb-key-2 on each side are layer modifier keys, left side changes to layer 1 for the next key (OSL) or while holding, right side changes to layer 2.
 
 
 
 ## Arrow keys
 
-Arrow keys are same as Vim, HJKL, but with **layer 1** turned on.
+Arrow keys are same as Vim navigatio; `H J K L`, but with **layer 1** turned on.
 
 
 
@@ -80,7 +73,7 @@ Layer 2 has numbers on the right hand distributed as a numpad, but with 0 right 
 
 ## Symbols
 
-**Layer 2** has the symbols: `!@#$%` on top row of left side, and **Layer 1** has the symbols `^&*()` on top row of the right side. Mimicing the positions in a laptop keyboard with a number row.
+**Layer 2** has the symbols: `! @ # $ %` on top row of left side, and **Layer 1** has the symbols `^ & * ( )` on top row of the right side. Similar to the positions in a laptop keyboard with a number row.
 
 The remaining symbols are as follows:
 
@@ -90,7 +83,7 @@ The remaining symbols are as follows:
 
 ```
 - and \ as bottom row positions 2 and 5 of the right side.
-_ and | can be typed using a special shift key of layer 1 (position of the g key on layer 0)
+_ and | can be typed using a special shift key of layer 1 (position of the G key on layer 0)
 ```
 
 
@@ -98,13 +91,13 @@ _ and | can be typed using a special shift key of layer 1 (position of the g key
 ### layer 2
 
 ```
-` [ ] and = as bottom row positions 1 2 3 4 of the left side.
-~ { } and + can be typed using a special shift key of layer 2 (position of the h key on layer 0)
+` [ ] and = as bottom row positions 5 4 3 2 of the left side.
+~ { } and + can be typed using a special shift key of layer 2 (position of the H key on layer 0)
 ```
 
 
 
-## Center-middle Cluster (corne v4)
+## Center Cluster (corne v4)
 
 Bottom row are Left Alt and Right Alt (compose key). Top row are Left Shift and Right Shift.
 
@@ -112,7 +105,19 @@ Bottom row are Left Alt and Right Alt (compose key). Top row are Left Shift and 
 
 ## External Columns
 
-As already mentioned, Esc and Enter are on middle row, with Left Super on both sides in the bottom row and with Del and Printscr on the top row.
+As already mentioned, If your corne is 3x6, Esc and Enter are on middle row, with Left Super on both sides in the bottom row and with Del and Printscr on the top row.
+
+
+
+-----
+
+
+
+## Usage-based feedback
+
+- Super key position is not the most comfortable… maybe rethink it considering that hyprland default keybinds for Omarchy uses Super a lot. 
+
+
 
 ## To-do
 

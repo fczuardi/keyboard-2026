@@ -116,6 +116,7 @@ As already mentioned, If your corne is 3x6, Esc and Enter are on middle row, wit
 ## Usage-based feedback
 
 - Super key position is not the most comfortable… maybe rethink it considering that hyprland default keybinds for Omarchy uses Super a lot. 
+  - UPDATE: I am trying a variation with Ctrl and Super switched, Ctrl will be the one far away and Super will be on thumb3, If it improves the experience I will make it official and remove this note.
 
 
 

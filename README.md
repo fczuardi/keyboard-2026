@@ -35,23 +35,16 @@ QWERTY
 
 ### layer 0
 
-
-
 ![layer-0-screenshot-2025-12-17_10-55-48](./images/layer-0-screenshot-2025-12-17_10-55-48.png)
 
 ### layer 1
 
-
-
-![layer-1-screenshot-2025-12-17_10-56-44](./images/layer-1-screenshot-2025-12-17_10-56-44.png)
+![layer-1-screenshot-2025-12-17_10-56-44](./images/layer-1-screenshot-2025-12-30_17-05-32.png)
 
 ### layer 2
 
+![layer-2-screenshot-2025-12-17_10-57-13](./images/layer-2-screenshot-2025-12-30_17-07-03.png)
 
-
-![layer-2-screenshot-2025-12-17_10-57-13](./images/layer-2-screenshot-2025-12-17_10-57-13.png)
-
-​                    
 
 ## Layer Switching
 
@@ -108,6 +101,17 @@ Bottom row are Left Alt and Right Alt (compose key). Top row are Left Shift and 
 As already mentioned, If your corne is 3x6, Esc and Enter are on middle row, with Left Super on both sides in the bottom row and with Del and Printscr on the top row.
 
 
+## Tiling window manager shortcuts
+
+Omarchy uses Super + arrow keys for changing windows ans Shift + Super + arrow keys.
+Since arrow keys on this layout is already a two key combination, adding shify and super on top of 
+that means finger gymnastics. So on layer 2 (the arrow keys layer) I have added one key that is
+equivalent of Shift + Super and one right next to it that is a better positioned Super.
+
+The same idea was applied  to moving between workplaces, Super + number and moving windows to other 
+workplaces, Super + Shift + number. So on layer 1 (the layer of numpad) the same key of Shift + Super
+is on the same spot of the layer 2, on the left hand. No alternative key for super on this layer because
+we already use the spot for the simbol =
 
 -----
 
@@ -117,11 +121,14 @@ As already mentioned, If your corne is 3x6, Esc and Enter are on middle row, wit
 
 - Super key position is not the most comfortable… maybe rethink it considering that hyprland default keybinds for Omarchy uses Super a lot. 
   - UPDATE: I am trying a variation with Ctrl and Super switched, Ctrl will be the one far away and Super will be on thumb3, If it improves the experience I will make it official and remove this note.
+  - UPDATE: The change was good, kept.
+
 
 
 
 ## To-do
 
-- Ctrl PgUp, Ctrl PgDown keys for tab-switching
+- DONE: Ctrl PgUp, Ctrl PgDown keys for tab-switching
+  - an all-left-hand shortcut similar to the ones for numpad on right-hand is now part of the latest iteration
 - Media Volume Up/Down
 - Fn keys
